@@ -1,12 +1,12 @@
 <!---
 markmeta_author: wongoo
 markmeta_date: 2019-01-22
-markmeta_title: Scrum Guide 2016
+markmeta_title: 2016 Scrum 指南™
 markmeta_categories: scrum
 markmeta_tags: scrum
 -->
 
-# Scrum Guide 2016
+# 2016 Scrum 指南™
  
 ## 1. Scrum 指南的目的
  
